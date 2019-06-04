@@ -1,0 +1,6 @@
+framework module JGAppManger {
+  umbrella header "JGAppManger-umbrella.h"
+
+  export *
+  module * { export * }
+}

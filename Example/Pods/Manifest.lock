@@ -1,0 +1,16 @@
+PODS:
+  - JGAppManger (0.1.0)
+
+DEPENDENCIES:
+  - JGAppManger (from `../`)
+
+EXTERNAL SOURCES:
+  JGAppManger:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JGAppManger: e74eb45a3954b898ab9b70b7ec3da4d41c50003f
+
+PODFILE CHECKSUM: 89876a57f9553ddca98c9d3465848bd32451eda2
+
+COCOAPODS: 1.4.0
